@@ -41,7 +41,7 @@ const Footer = () => {
               </a>
               {/* Resume Button */}
               <a
-                href="https://github.com/raghu-ram-p/resume" // Update this path as needed
+                href="ttps://github.com/raghu-ram-p/resume/blob/main/resume.pdf" // Update this path as needed
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-purple-600 text-white rounded-full hover:bg-purple-700 transition transform hover:scale-105"
